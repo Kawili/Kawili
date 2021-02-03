@@ -4,7 +4,7 @@ A middle school student interested in Information Technology。
 
 ![](http://antzuhl.cn:4000/get/@Kawili.readme)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Kawili&show_icons=true&count_private=true&icon_color=38FFFE&title_color=38FFFE)
+![Stats](https://github-readme-stats.vercel.app/api?username=Kawili&show_icons=true&count_private=true&icon_color=01000B&title_color=01000B)
 
 #### Something I can 
 
