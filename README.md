@@ -1,6 +1,6 @@
 ## カウィリ (Kawili)
 #### Ablout me
-A middle school student interested in Information Technology。
+A high school student who likes information technology。
 
 ![](http://antzuhl.cn:4000/get/@Kawili.readme)
 
