@@ -6,6 +6,10 @@ A middle school student interested in Information Technology。
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Kawili&show_icons=true&count_private=true&icon_color=FB7299&title_color=FB7299)
 
+#### Something I can 
+
+![](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff) ![](https://img.shields.io/badge/-C%2b%2b-cc961c?style=flat-square&logo=C%2b%2b&logoColor=fff) ![](https://img.shields.io/badge/-C-FFC0CB?style=flat-square&logo=C&logoColor=fff) ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) and C#
+
 #### Platform&Tool
 
 [![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
